@@ -28,7 +28,7 @@ define Build/Compile
 	$(call GluonBuildI18N,gluon-luci-wifi-uplink,i18n)
 endef
 
-define Package/gluon-luci-private-wifi/install
+define Package/gluon-luci-wifi-uplink/install
 	$(CP) ./files/* $(1)/
 	$(call GluonInstallI18N,gluon-luci-wifi-uplink,$(1))
 endef
