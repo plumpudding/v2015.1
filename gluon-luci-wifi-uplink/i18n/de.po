@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2015-05-04 02:25+0200\n"
+"Last-Translator:  <petabyteboy@gmail.com>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "8-63 characters"
+msgstr "8-63 Zeichen"
+
+msgid "Name (SSID)"
+msgstr "Name (SSID)"
+
+msgid "WLAN Uplink"
+msgstr "WLAN Uplink"
+
+msgid ""
+"WLAN Uplink 1"
+msgstr ""
+"WLAN Uplink 1"

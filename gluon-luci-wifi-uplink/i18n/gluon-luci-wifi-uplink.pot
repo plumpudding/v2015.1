@@ -1,0 +1,15 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "8-63 characters"
+msgstr ""
+
+msgid "Name (SSID)"
+msgstr ""
+
+msgid "WLAN Uplink"
+msgstr ""
+
+msgid ""
+"WLAN Uplink 1"
+msgstr ""
